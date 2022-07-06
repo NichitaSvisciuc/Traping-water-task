@@ -2,12 +2,6 @@ import numpy as np
 
 from collections import defaultdict
 
-class Solution(object):
-    def trap(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
 
 def divide(array, index_iterator_length):
 
